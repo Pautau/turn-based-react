@@ -1,0 +1,9 @@
+{
+  "spells": [
+    { "name": "Slash", "effect": { "type": "direct damage", "value": 15 }, "cooldown": 0 },
+    { "name": "Fireball", "effect": { "type": "direct damage", "value": 25 }, "cooldown": 3 },
+    { "name": "Ice Spike", "effect": { "type": "direct damage", "value": 20 }, "cooldown": 2 },
+    { "name": "Thunder Strike", "effect": { "type": "direct damage", "value": 30 }, "cooldown": 4 },
+    { "name": "Heal", "effect": { "type": "heal", "value": 20 }, "cooldown": 5 }
+  ]
+}
